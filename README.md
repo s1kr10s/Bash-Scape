@@ -1,11 +1,6 @@
 # Bash-Scape
-
-
-Un simple (Bash Scape).
-
-
+```
 /bin/bash -> bash
-
 ${!#}<<<
 
 {
@@ -99,7 +94,7 @@ ${##}
 ,
 
 }
-
+```
 
 Formas de ejecutar (ls):
 ```
